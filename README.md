@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [Resume (Click Here)](https://docs.google.com/document/d/1EPEMxO_zDXUMFuwXiI-_kKtkxYRR_uyPScbwkM_rPjs/edit?usp=sharing)
 
+- 🎞️ I'm a content creator too [Ayush Films (Youtube Channel)](https://www.youtube.com/@ayushfilms.)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushkumarw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kmrr" height="30" width="40" /></a>
