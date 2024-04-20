@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayushkumarw1@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume (Click Here)](https://docs.google.com/document/d/1EPEMxO_zDXUMFuwXiI-_kKtkxYRR_uyPScbwkM_rPjs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
