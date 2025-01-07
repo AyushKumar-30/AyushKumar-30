@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">An aspiring Full Stack Developer based in the United States.</h3>
+<h3 align="center">A Full Stack Developer based in the United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushKumar-30&label=Profile%20views&color=0e75b6&style=flat" alt="AyushKumar-30" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayushkumarw1@gmail.com**
 
-- 📄 Know about my experiences [Resume (Click Here)](https://docs.google.com/document/d/1EPEMxO_zDXUMFuwXiI-_kKtkxYRR_uyPScbwkM_rPjs/edit?usp=sharing)
+- 📄 Know about my experiences [Resume (Click Here)](https://drive.google.com/file/d/1ikqsgRv6e8ddJ3SLjSw24MS5REsPLHlK/view?usp=sharing)
 
 - 🎞️ I'm a content creator too [Ayush Films (Youtube Channel)](https://www.youtube.com/@ayushfilms.)
 
