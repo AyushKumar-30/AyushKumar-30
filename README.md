@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyushKumar-30" alt="AyushKumar-30" /></a> </p>
 
-- 🔭 I’m currently pursuing my **Master's** in **Computer Engineering** from **Arizona State University**.
-
-- 🌱 I’m currently exploring highly-responsive front-end web development projects
-
-- 💬 Ask me about **Algorithms, Web Development, and Competitive Programming**
-
 - 📫 How to reach me **ayushkumarw1@gmail.com**
 
 - 📄 Know about my experiences [Resume (Click Here)](https://drive.google.com/file/d/1ikqsgRv6e8ddJ3SLjSw24MS5REsPLHlK/view?usp=sharing)
