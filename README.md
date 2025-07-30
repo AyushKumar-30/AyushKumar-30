@@ -7,11 +7,9 @@
 
 - 📫 How to reach me **ayushkumarw1@gmail.com**
 
-- 📄 Know about my experiences [Resume (Click Here)](https://drive.google.com/file/d/1ikqsgRv6e8ddJ3SLjSw24MS5REsPLHlK/view?usp=sharing)
-
 - 🎞️ I'm a content creator too [Ayush Films (Youtube Channel)](https://www.youtube.com/@ayushfilms.)
 
-- 😃 Get to know more about me at https://ayushkumar-30.github.io/Ayush-Portfolio/
+- 😃 Get to know more about me at https://my-portfolio-ai-tau.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
